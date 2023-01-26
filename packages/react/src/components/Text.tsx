@@ -9,19 +9,19 @@ export const Text = styled('p', {
 
   variants: {
     size: {
-      xxs: { fontSize: '$xs' },
-      xs: { fontSize: '$s' },
-      sm: { fontSize: '$m' },
-      md: { fontSize: '$d' },
-      lg: { fontSize: '$g' },
-      xl: { fontSize: '$l' },
-      '2xl': { fontSize: '$xl' },
-      '4xl': { fontSize: '$xl' },
-      '5xl': { fontSize: '$xl' },
-      '6xl': { fontSize: '$xl' },
-      '7xl': { fontSize: '$xl' },
-      '8xl': { fontSize: '$xl' },
-      '9xl': { fontSize: '$xl' },
+      xxs: { fontSize: '$xxs' },
+      xs: { fontSize: '$xs' },
+      sm: { fontSize: '$sm' },
+      md: { fontSize: '$md' },
+      lg: { fontSize: '$lg' },
+      xl: { fontSize: '$xl' },
+      '2xl': { fontSize: '$2xl' },
+      '4xl': { fontSize: '$4xl' },
+      '5xl': { fontSize: '$5xl' },
+      '6xl': { fontSize: '$6xl' },
+      '7xl': { fontSize: '$7xl' },
+      '8xl': { fontSize: '$8xl' },
+      '9xl': { fontSize: '$9xl' },
     },
   },
 
@@ -33,3 +33,5 @@ export const Text = styled('p', {
 export interface TextProps extends ComponentProps<typeof Text> {
   as?: ElementType
 }
+
+Text.displayName = 'Text'
