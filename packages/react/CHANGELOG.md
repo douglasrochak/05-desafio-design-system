@@ -1,5 +1,11 @@
 # @doro-ui/react
 
+## 2.1.0
+
+### Minor Changes
+
+- Changes in the package to fix import
+
 ## 2.0.1
 
 ### Patch Changes
