@@ -1,5 +1,11 @@
 # @doro-ui/react
 
+## 2.0.1
+
+### Patch Changes
+
+- Fix style types export
+
 ## 2.0.0
 
 ### Major Changes
