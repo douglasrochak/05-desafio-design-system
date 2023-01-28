@@ -1,5 +1,11 @@
 # @doro-ui/react
 
+## 2.3.0
+
+### Minor Changes
+
+- Fix in Text Input ref component
+
 ## 2.2.0
 
 ### Minor Changes
