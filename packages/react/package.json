@@ -1,6 +1,6 @@
 {
   "name": "@doro-ui/react",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -30,6 +30,7 @@
     "@radix-ui/react-avatar": "^1.0.1",
     "@radix-ui/react-checkbox": "^1.0.1",
     "@stitches/react": "^1.2.8",
-    "phosphor-react": "^1.4.1"
+    "phosphor-react": "^1.4.1",
+    "@radix-ui/react-tooltip": "^1.0.3"
   }
 }
