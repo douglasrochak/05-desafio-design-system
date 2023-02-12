@@ -19,7 +19,7 @@ module.exports = {
 
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/05-aula-design-system/'
+      config.base = '/05-desafio-design-system/'
     }
 
     return config
