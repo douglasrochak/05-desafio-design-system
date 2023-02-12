@@ -1,5 +1,11 @@
 # @doro-ui/react
 
+## 2.5.0
+
+### Minor Changes
+
+- create component toast
+
 ## 2.4.0
 
 ### Minor Changes
