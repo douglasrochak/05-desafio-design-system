@@ -1,0 +1,2 @@
+import{A as t}from"./index.14b68a6b.js";import"./index.c7c683ca.js";import"./iframe.cf63d0ac.js";import"./index.08876570.js";import"./jsx-runtime.cd7b569f.js";const c={title:"Typography/Avatar",component:t,argTypes:{src:{control:{type:"text"}},alt:{control:{type:"text"}}}},e={args:{src:"https://github.com/douglasrochak.png",alt:"Douglas Rochak"}},i={},l=["Primary","WithFallback"];export{e as Primary,i as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.72433d28.js.map
