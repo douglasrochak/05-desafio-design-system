@@ -37,3 +37,5 @@ export function Toast({
     </ToastProvider>
   )
 }
+
+Toast.displayName = 'Toast'
